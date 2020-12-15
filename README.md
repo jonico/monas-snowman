@@ -1,8 +1,7 @@
-# Chapter 2: Winter arrives 🌨
+# Chapter 3: So much snow! ❄️
 
-It's snowing! Mona is so happy! :octocat::blush:
+It stopped snowing, and the snow feels just right for Mona to start building her snowman.
 
 ![](./figure.svg)
 
-Will the snow be good enough for Mona to build a snowman? Add a label (any label is fine) to the
-issue you created and refresh this page to find out!
+Give her some support by starring this repository. After that, refresh this page.

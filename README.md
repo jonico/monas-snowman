@@ -1,7 +1,12 @@
-# ☃ Mona wants to build a snowman ☃
+# Chapter 1: It's summer ☀
 
-Help Mona build a snowman. Start by manually triggering the [first GitHub Actions
-workflow](../../actions?query=workflow%3A%221.+It%27s+summer+%E2%98%80%22)
-on this repository to get started!
+Mona loves summer, but she can't wait for winter to arrive so she can play on the snow with the
+other octocats and build a beautiful snowman.
 
-![](./octocat.svg?s=640)
+![](./figure.svg)
+
+Let's help Mona by first setting up a self-hosted runner on GitHub Actions (use the
+[`runner/start.sh`](./runner/start.sh) script to start a Docker container and then [set it
+up](../../settings/actions/add-new-runner?arch=x64&os=linux) as a self-hosted runner for this
+repository). After that, [create a new issue](../../issues/new) on the repository and refresh this
+page.
